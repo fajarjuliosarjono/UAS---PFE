@@ -1,4 +1,4 @@
-# UTS---PFE
+# UAS---PFE
 UTS - Pemrograman Front End
 
 Nama :  FAJAR JULIO SARJONO
