@@ -1,2 +1,5 @@
 # UTS---PFE
-UTS - Pemrograman Front End - Fajar Julio Sarjono
+UTS - Pemrograman Front End
+
+Nama :  FAJAR JULIO SARJONO
+NIM  :  1002250012
